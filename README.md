@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently enhancing skills in Software Development<br>
+🔭 I'm currently enhancing my skills in Software Development<br>
 
 
 ## 🌐 Socials:
