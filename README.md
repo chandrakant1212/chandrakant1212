@@ -19,6 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+[![An image of @chandrakant1212's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandrakant1212)](https://holopin.io/@chandrakant1212)
 ![](https://github-contributor-stats.vercel.app/api?username=chandrakant1212&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
