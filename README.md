@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Singariya</h1>
-<h3 align="center">B.Tech @ IIT Roorkee · Software Engineer · ML </h3>
+<h3 align="center">B.Tech @ IIT Roorkee · Software · ML Enthusiats </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/Chandrakant-Singariya">
@@ -32,40 +32,6 @@
 - 🧠 Interests: **Full-Stack Development**, **Machine Learning**
 - 💼 **Portfolio:** [https://portfoliochandrakant.vercel.app/](https://portfoliochandrakant.vercel.app/)
 - 📫 Reach me at **chandrakant@ch.iitr.ac.in**
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 [Multimodal Property Valuation Model](https://github.com/chandrakant1212/multimodal-property-valuation)
-> Deep learning model combining image + structured data for real estate price prediction
-- Built a multimodal architecture fusing CNNs (for property images) with tabular ML models
-- Achieved significant accuracy improvements over baseline regression models
-- **Stack:** Python, PyTorch, scikit-learn, Pandas
-
-### 🤖 [AutoJudge — CP Difficulty Predictor](https://github.com/chandrakant1212/autojudge-cp-predictor)
-> NLP-based system that predicts competitive programming problem difficulty
-- Trained on thousands of problems from Codeforces/LeetCode using NLP embeddings
-- Helps competitive programmers target problems at the right difficulty level
-- **Stack:** Python, NLP, scikit-learn, FastAPI
-
-### 🛠️ [LeetCode Offline Debugger — VS Code Extension](https://github.com/chandrakant1212/leetcode-offline-debugger)
-> VS Code extension enabling offline debugging of LeetCode problems
-- Eliminates the need for an internet connection while practicing DSA
-- Published and available for the broader developer community
-- **Stack:** TypeScript, VS Code Extension API, Node.js
-
----
-
-## 🏆 Achievements & Recognition
-
-| 🏅 Achievement | 📋 Details |
-|---|---|
-| 🥇 **1st Place** | MachineLearning.ai Hackathon — IIT Guwahati |
-| 🌍 **Global Rank 1087** | LeetCode Weekly Contest 468 |
-| 🐙 **Hacktoberfest 2025 Super Contributor** | 8 PRs merged across open source projects |
-
----
 
 ## 🌍 Open Source Contributions
 
@@ -122,20 +88,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=chandrakant1212&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant1212&theme=dark&hide_border=false&layout=compact" />
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=chandrakant1212&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 📈 Profile Analytics
-
-| Metric | Badge |
-|--------|-------|
-| Profile Views | ![Profile Views](https://komarev.com/ghpvc/?username=chandrakant1212&label=Views&color=0e75b6&style=flat-square) |
-
----
 
 <p align="center">
   <i>Open to Software Engineering and Data Science role opportunities — feel free to reach out!</i>
