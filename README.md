@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech @ IIT Roorkee · Software · ML Enthusiats </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Chandrakant-Singariya">
+  <a href="www.linkedin.com/in/chandrakant-singariya-8b7a852a9">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chandrakant@ch.iitr.ac.in">
